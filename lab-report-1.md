@@ -88,10 +88,11 @@ From here, if your login is successful, and it is your first time logging into t
   
   * CTRL-D
   * Run the command *exit*
+
+  
+  ## Debrief
   
   
-  Debrief
-  ---------
   
   Now that you've finished all these steps hopefully you know how to remotely login, you are somewhat familiar with ssh and the terminal as well as
   some useful commands!
