@@ -46,7 +46,7 @@ instructions to change your password (You may have to link your account to DUO).
 
 This is the final step of remote connection. If you have completed every step well, we can now turn back to VS Code.
 
-Once you are at the homepage, open the terminal by pressing CTRL/Command + ~
+Once you are at the homepage, open the terminal by pressing `CTRL/Command + ~`
 
 Once the terminal is open it should look similar to this:
 
@@ -58,7 +58,7 @@ From here, type the following to login to the ucsd servers: *$ ssh <username>@ie
   when typing the command into the terminal, omit the $) and then enter your password. (Your password may not show while you're typing it out for
   security reasons)
   
-If you encounter some sort of login error, try the following first: *$ ssh <username>@ieng6-202.ucsd.edu*, and if this doesn't work also, contact the 
+If you encounter some sort of login error, try the following first: `$ ssh <username>@ieng6-202.ucsd.edu`, and if this doesn't work also, contact the 
   staff on edstem or visit during office hours.
   
 From here, if your login is successful, and it is your first time logging into the ucsd system through these means, you may have a prompt asking
@@ -76,19 +76,21 @@ From here, if your login is successful, and it is your first time logging into t
   Now that you've logged in, try some commands in the terminal! 
   
   Some important ones are:
+  ```
   * pwd
   * ls
   * cd
   * cd..
   * cat
+  ```
   
  Try some of these commands out, get used to them as you will use these for at least the rest of your CSE15L career.
   
   After you're all done with that, make sure to logout using:
-  
+  ```
   * CTRL-D
   * Run the command *exit*
-
+  ```
   
   ## Debrief
   
