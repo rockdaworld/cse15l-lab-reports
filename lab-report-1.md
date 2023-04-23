@@ -54,7 +54,7 @@ Once the terminal is open it should look similar to this:
 
 In the following lines <username> should be replaced with your CSE15L course account username *i.e. cs15lsp23ab*
 
-From here, type the following to login to the ucsd servers: *$ ssh <username>@ieng6.ucsd.edu* (Note that the $ is here just to show what you're typing,
+From here, type the following to login to the ucsd servers: `$ ssh <username>@ieng6.ucsd.edu` (Note that the $ is here just to show what you're typing,
   when typing the command into the terminal, omit the $) and then enter your password. (Your password may not show while you're typing it out for
   security reasons)
   
@@ -77,11 +77,11 @@ From here, if your login is successful, and it is your first time logging into t
   
   Some important ones are:
   ```
-  * pwd
-  * ls
-  * cd
-  * cd..
-  * cat
+  * pwd   lists the full path leading to the directory you are in
+  * ls    lists all the files/directories in your directory
+  * cd    changes to root directory
+  * cd..  goes to previous directory
+  * cat   concatenates the file(s)' contents into the terminal
   ```
   
  Try some of these commands out, get used to them as you will use these for at least the rest of your CSE15L career.
