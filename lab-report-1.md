@@ -71,7 +71,7 @@ From here, if your login is successful, and it is your first time logging into t
   
   If you have the last part (the cluster status), you're all set and you've finished remotely connecting.
   
- ## Part 4 - Trying Commands
+## Part 4 - Trying Commands
   
   Now that you've logged in, try some commands in the terminal! 
   
@@ -92,7 +92,7 @@ From here, if your login is successful, and it is your first time logging into t
   * Run the command *exit*
   ```
   
-  ## Debrief
+## Debrief
   
   
   
