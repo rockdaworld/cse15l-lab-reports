@@ -18,3 +18,16 @@ Below are a couple examples on how the server functions:
 Following is the code for the server:
 
 ![StringServer code](lr2-servercode.png)
+
+
+## Part 2 - Bugs & JUnit
+
+
+
+
+
+
+
+## Part 3 - Reflection
+
+
