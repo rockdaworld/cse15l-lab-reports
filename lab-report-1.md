@@ -85,6 +85,10 @@ From here, if your login is successful, and it is your first time logging into t
   ```
   
  Try some of these commands out, get used to them as you will use these for at least the rest of your CSE15L career.
+  An example of using the commands are:
+ 
+![Terminal Commands](15lreport1terminalcommandsexample.png)
+
   
   After you're all done with that, make sure to logout using:
   ```
