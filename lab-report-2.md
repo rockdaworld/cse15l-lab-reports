@@ -113,4 +113,7 @@ when reaching the "halfway" point of the length of the given array.
 
 ## Part 3 - Reflection
 
-
+Something new I've learned in weeks 2 and 3 of lab was coding and creating a server with the java URI class. I personally had trouble
+returning the string of statements and had to land on concatenation of a string variable after a good while of bug fixing. 
+In terms of the bug fixing aspect of the week 3 lab, not much new was learned as I already have had experience with JUnit through CSE 12 
+and bug fixing through various other programming classes. 
