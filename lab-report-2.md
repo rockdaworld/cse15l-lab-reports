@@ -19,6 +19,7 @@ Following is the code for the server:
 
 ![StringServer code](lr2-servercode.png)
 
+For each of the two screenshots of my server, the same method is called. It is the method that adds the message given the correct parameters. These parameters are 1) If the given path contains */add-message* and 2) If after the query *?*, if the left hand side of the *?* is "s". If that is the case, then we append the given search query onto our string, including a new line. If 1) is not satisfied, then we return a psuedo error message. 
 
 ## Part 2 - Bugs & JUnit
 
