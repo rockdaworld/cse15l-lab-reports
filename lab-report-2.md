@@ -11,9 +11,16 @@ took the first argument to return that string on the page.
 
 Below are a couple examples on how the server functions: 
 
+<u>Screenshot 1:</u>
 ![Add message photo 1](lr2-addphoto-1.png)
 
+For this screenshot, the *add-message* method is called. The relevant argument is *s?=hello* and the method appends the string to the right of *=* to the list of returned strings on the server.
+
+
+<u>Screenshot 2:</u>
 ![Add message photo 2](lr2-addphoto-2.png)
+
+For this screenshot, the *add-message* method is called. The relevant argument is *s?=so i'm thinking this works* and the method appends the string to the right of *=* to the list of returned strings on the server.
 
 Following is the code for the server:
 
